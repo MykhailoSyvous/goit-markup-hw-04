@@ -101,13 +101,14 @@ padding: 0;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .line-header::after{
-    content: "";
+    content: " ";
     position: absolute; 
     left: 0;
     bottom: -1px;
     height: 4px;
     background-color: #404bbf;
     border-radius: 2px; 
+    width: 100%;
 }
 .header-link{
     color: var(--color-secundery);
@@ -239,6 +240,17 @@ display: flex;
 gap: 24px;
 margin: 0;
 padding: 0;
+}
+
+.conteiner-icon{
+    display: flex; 
+    
+    align-items: center;
+    justify-content: center;
+    height: 112px; 
+    background-color: #f4f4fd;
+    border-radius: 4px; 
+    margin-bottom: 8px;
 }
 .advantages-item
 {
