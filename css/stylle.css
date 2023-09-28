@@ -392,7 +392,7 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 
 
-.portfolio-item:hover, .activity{transform: translateY(0%);}
+.portfolio-item:hover, .p{transform: translateY(0%);}
 .box-app{
 padding: 32px 16px;
 
@@ -477,6 +477,7 @@ color: var(--backraund-section-our-team)
     letter-spacing: 0.02em;
     max-width: 264px;
 margin: 0;
+margin-bottom: 16px;
 }
 .soc-footer-box{
 align-items: center;
