@@ -435,7 +435,7 @@ border-top: none;
     line-height: 24px;
     letter-spacing: 0.02em;
     margin: 0;
-    transform: translateY(0%);
+    
 }
 /* footer */
 .footer-sections{
@@ -496,6 +496,7 @@ margin-bottom: 16px;
     align-items: center;
     gap:16px;
     padding-left: 0;
+    margin-top: 0;
 }
 .footer-soc-item{
 width: 40px;
