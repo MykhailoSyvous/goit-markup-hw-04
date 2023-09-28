@@ -443,6 +443,7 @@ border-top: none;
 .box-footer{
     display: flex;
     align-items: baseline;
+    margin-right: 120px;
 
 }
 .box-box-footer{
@@ -510,5 +511,5 @@ height: 40px;
     background-color: #31d0aa;
 }
 .svg-footer{
-fill:##f4f4fd F;
+fill:#f4f4fd ;
 }
