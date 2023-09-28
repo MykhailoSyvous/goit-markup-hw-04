@@ -92,12 +92,14 @@ margin: 0;
 padding: 0;
 }
 
-
+.nav-item{
+    color: #404bbf;
+}
 
 
 .line-header{
     position: relative;
-    color: #404bbf;
+   
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .line-header::after{
@@ -253,9 +255,10 @@ padding: 0;
     background-color: #f4f4fd;
     border-radius: 4px; 
     margin-bottom: 8px;
+    
 }
 .icon-advantages{
-    padding: 100px 24px;
+   
 }
 .advantages-item
 {
