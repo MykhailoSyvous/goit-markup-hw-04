@@ -441,13 +441,14 @@ border-top: none;
     padding-bottom: 100px;
 }
 .box-footer{
-    display: flex;
-    align-items: baseline;
+    
+
     margin-right: 120px;
 
 }
 .box-box-footer{
-    margin-right: 120px;
+   display: flex;
+   align-items: baseline;
 }
 
 .footer-logo{
@@ -490,6 +491,7 @@ margin-bottom: 16px;
     justify-content: center;
     align-items: center;
     gap:16px;
+    padding-left: 0;
 }
 .footer-soc-item{
 width: 40px;
