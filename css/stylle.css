@@ -488,7 +488,7 @@ font-weight: 500;
 line-height: 1.5 ;
 letter-spacing: 0.02em ;
 color:#FFFFFF;
-margin-bottom: 16px;
+margin-bottom:16px;
 }
 .footer-soc{
     display: flex;
@@ -496,7 +496,7 @@ margin-bottom: 16px;
     align-items: center;
     gap:16px;
     padding-left: 0;
-    margin-top: 0;
+
 }
 .footer-soc-item{
 width: 40px;
